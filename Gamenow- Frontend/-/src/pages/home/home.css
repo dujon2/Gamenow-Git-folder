@@ -1,0 +1,10 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+
+body{
+    margin: none !important;
+    border: none;
+    padding: none;
+}
